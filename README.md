@@ -23,5 +23,5 @@ A machine learning project using Python to predict diabetes from medical records
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/HarshithaVenkatesh/diabetes-prediction-ml.git
+   git clone https://github.com/harshitha7/Predication-of-Diabetes-using-ML.git
    cd diabetes-prediction-ml
